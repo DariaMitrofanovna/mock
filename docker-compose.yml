@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+
+  app1234567890123456:
+    container_name: app
+    build:
+      context: ./
+      dockerfile: dockerfile
+    expose:
+      - 8080
+    ports:
+      - "8080:8080"

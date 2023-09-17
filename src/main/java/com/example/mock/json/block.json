@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "is_active": true,
+      "league_guid": "11d4eafb-6073-4908-8993-cf53f602d7ab",
+      "external": [
+        {
+          "id": "6820",
+          "system": "PHN"
+        },
+        {
+          "id": "229a3850-109a-11e7-90fa-005056991e54",
+          "system": "1C"
+        },
+        {
+          "id": "7",
+          "system": "DL"
+        }
+      ],
+      "short_code": "INT",
+      "name": "Бэкофис",
+      "head_guid": "dfdbbdd5-bc5b-499d-9160-0415aaee7d6d",
+      "assistant": [
+        {
+          "guid": "17b48b30-6a25-4a48-bc67-0cacd56c50e9",
+          "type": "FINANCE"
+        },
+        {
+          "guid": "43d61209-0696-4a26-96eb-72bed9ce548f",
+          "type": "MAIN"
+        },
+        {
+          "guid": "43d61209-0696-4a26-96eb-72bed9ce548f",
+          "type": "FINANCE"
+        },
+        {
+          "guid": "17b48b30-6a25-4a48-bc67-0cacd56c50e9",
+          "type": "BASE"
+        },
+        {
+          "guid": "43d61209-0696-4a26-96eb-72bed9ce548f",
+          "type": "BASE"
+        }
+      ]
+    },
+    {
+      "is_active": true,
+      "league_guid": "2598b96b-a834-477c-aa05-4f8394d02ffa",
+      "external": [
+        {
+          "id": "69eba8ea-abaa-11ed-9f1c-0050568856fd",
+          "system": "1C"
+        },
+        {
+          "id": "20244",
+          "system": "PHN"
+        },
+        {
+          "id": "7295",
+          "system": "DL"
+        }
+      ],
+      "short_code": "DSB",
+      "name": "Блок Цифровых Решений",
+      "head_guid": null,
+      "assistant": []
+    },
+    {
+      "is_active": true,
+      "league_guid": "2b7ca9b8-1c04-41d9-99c3-e4c31bb488ff",
+      "external": [
+        {
+          "id": "1",
+          "system": "DL"
+        },
+        {
+          "id": "6789",
+          "system": "PHN"
+        },
+        {
+          "id": "b3ee59a4-e85e-11e6-968c-0cc47a688011",
+          "system": "1C"
+        }
+      ],
+      "short_code": "BI",
+      "name": "Блок  BI",
+      "head_guid": "492e50dc-5329-445d-8c1b-c3f38111422a",
+      "assistant": [
+        {
+          "guid": "dae2b7d1-4a6d-4616-9969-1f79b35e312c",
+          "type": "BASE"
+        },
+        {
+          "guid": "dae2b7d1-4a6d-4616-9969-1f79b35e312c",
+          "type": "MAIN"
+        },
+        {
+          "guid": "dae2b7d1-4a6d-4616-9969-1f79b35e312c",
+          "type": "FINANCE"
+        }
+      ]
+    },
+    {
+      "is_active": false,
+      "league_guid": "31bb6a5d-a030-4288-948d-623245e61217",
+      "external": [
+        {
+          "id": "5",
+          "system": "DL"
+        },
+        {
+          "id": "1ab45b5a-ea21-11e6-b40b-0cc47a688011",
+          "system": "1C"
+        },
+        {
+          "id": "6793",
+          "system": "PHN"
+        }
+      ],
+      "short_code": "REG",
+      "name": "Блок Прикладных проектов",
+      "head_guid": "19eabe0c-bc8e-4ab7-8c90-dee2701f9edb",
+      "assistant": [
+        {
+          "guid": "3c5b60e4-4bd6-418c-abba-aadad858e120",
+          "type": "BASE"
+        },
+        {
+          "guid": "3c5b60e4-4bd6-418c-abba-aadad858e120",
+          "type": "MAIN"
+        }
+      ]
+    },
+    {
+      "is_active": true,
+      "league_guid": "3a4ca45f-94eb-4928-a165-dc285d634705",
+      "external": [
+        {
+          "id": "2",
+          "system": "DL"
+        },
+        {
+          "id": "6790",
+          "system": "PHN"
+        },
+        {
+          "id": "d33d339a-ea21-11e6-b40b-0cc47a688011",
+          "system": "1C"
+        }
+      ],
+      "short_code": "CRM",
+      "name": "Блок CRM",
+      "head_guid": "dfdbbdd5-bc5b-499d-9160-0415aaee7d6d",
+      "assistant": [
+        {
+          "guid": "d91d5459-7caf-41d5-8741-eadfbe1f7ea1",
+          "type": "BASE"
+        },
+        {
+          "guid": "947f85e2-92bc-4e78-a922-c5d34a6c51ac",
+          "type": "FINANCE"
+        },
+        {
+          "guid": "7541f39b-6ec4-4604-be22-5b9a60b51ae4",
+          "type": "FINANCE"
+        },
+        {
+          "guid": "947f85e2-92bc-4e78-a922-c5d34a6c51ac",
+          "type": "BASE"
+        }
+      ]
+    },
+    {
+      "is_active": true,
+      "league_guid": "4c13ad04-a9da-417a-86ca-b29ae439deec",
+      "external": [
+        {
+          "id": "9981",
+          "system": "PHN"
+        },
+        {
+          "id": "218550fe-90df-11e8-80e8-0cc47a93d2f5",
+          "system": "1C"
+        },
+        {
+          "id": "13",
+          "system": "DL"
+        }
+      ],
+      "short_code": "KORP",
+      "name": "Корпоративный центр",
+      "head_guid": "487b12ff-e467-418d-ab3c-73911ff771bf",
+      "assistant": [
+        {
+          "guid": "8105974c-0bb1-41ec-9ca8-c17c71063c50",
+          "type": "BASE"
+        },
+        {
+          "guid": "8105974c-0bb1-41ec-9ca8-c17c71063c50",
+          "type": "MAIN"
+        }
+      ]
+    },
+    {
+      "is_active": true,
+      "league_guid": "6142b81c-d22f-47c5-af24-472dd803fb9a",
+      "external": [
+        {
+          "id": "6163bda3-1e9f-11e7-8852-005056991e54",
+          "system": "1C"
+        },
+        {
+          "id": "6854",
+          "system": "PHN"
+        },
+        {
+          "id": "12",
+          "system": "DL"
+        }
+      ],
+      "short_code": "ERP",
+      "name": "Блок ERP",
+      "head_guid": "a3c83fbb-fc7a-42b2-8b08-5595474894ea",
+      "assistant": [
+        {
+          "guid": "0a3ecac9-5fbe-4972-831a-8b79531c4396",
+          "type": "BASE"
+        },
+        {
+          "guid": "0a3ecac9-5fbe-4972-831a-8b79531c4396",
+          "type": "MAIN"
+        },
+        {
+          "guid": "7541f39b-6ec4-4604-be22-5b9a60b51ae4",
+          "type": "FINANCE"
+        }
+      ]
+    },
+    {
+      "is_active": true,
+      "league_guid": "86a32e77-bd14-41c1-a962-400793276a8c",
+      "external": [
+        {
+          "id": "dae3deba-ea20-11e6-b40b-0cc47a688011",
+          "system": "1C"
+        },
+        {
+          "id": "6791",
+          "system": "PHN"
+        },
+        {
+          "id": "3",
+          "system": "DL"
+        }
+      ],
+      "short_code": "INV",
+      "name": "Блок Инновационных решений BSS/GSS",
+      "head_guid": "8305a4f1-bccb-4cd5-858b-5c95e0b05eac",
+      "assistant": [
+        {
+          "guid": "4dbd4029-03b0-451c-97b6-5f8e660b4fc7",
+          "type": "BASE"
+        },
+        {
+          "guid": "b08988a7-40b6-4240-b87d-3d749922df5e",
+          "type": "MAIN"
+        },
+        {
+          "guid": "b08988a7-40b6-4240-b87d-3d749922df5e",
+          "type": "BASE"
+        },
+        {
+          "guid": "879dd240-8450-4c8a-bc07-f4a3b59b14c1",
+          "type": "BASE"
+        },
+        {
+          "guid": "cb5a7a52-7e4e-43f4-8247-b1b27f3988ff",
+          "type": "BASE"
+        },
+        {
+          "guid": "4dbd4029-03b0-451c-97b6-5f8e660b4fc7",
+          "type": "MAIN"
+        },
+        {
+          "guid": "2058c137-ef8e-402d-bf07-766b7e2a41ed",
+          "type": "BASE"
+        },
+        {
+          "guid": "b382854d-f03e-4ed6-a0a5-ba36b26e42b8",
+          "type": "BASE"
+        },
+        {
+          "guid": "47020c94-2f34-477c-a6f0-9f42b89c395b",
+          "type": "BASE"
+        },
+        {
+          "guid": "6a7b9af2-377c-4c0e-859a-f7c02ce799bf",
+          "type": "BASE"
+        }
+      ]
+    },
+    {
+      "is_active": true,
+      "league_guid": "87461da2-e93b-4bcd-b266-1d28063e14c8",
+      "external": [
+        {
+          "id": "9",
+          "system": "DL"
+        },
+        {
+          "id": "6832",
+          "system": "PHN"
+        },
+        {
+          "id": "889cd3c8-1397-11e7-8852-005056991e54",
+          "system": "1C"
+        }
+      ],
+      "short_code": "INT",
+      "name": "Содержание офиса",
+      "head_guid": "440116a0-b067-4506-a69f-c1085c510c60",
+      "assistant": []
+    },
+    {
+      "is_active": true,
+      "league_guid": "8a0145f9-c76a-42d7-9920-6a16e20f1814",
+      "external": [
+        {
+          "id": "8",
+          "system": "DL"
+        },
+        {
+          "id": "6822",
+          "system": "PHN"
+        },
+        {
+          "id": "462cf71a-12b6-11e7-90fa-005056991e54",
+          "system": "1C"
+        }
+      ],
+      "short_code": "NN",
+      "name": "Вне блока",
+      "head_guid": null,
+      "assistant": []
+    },
+    {
+      "is_active": true,
+      "league_guid": "a165a96c-2bfa-4c17-a0bc-dd5dcdd8adfd",
+      "external": [
+        {
+          "id": "a291f65a-ea20-11e6-b40b-0cc47a688011",
+          "system": "1C"
+        },
+        {
+          "id": "4",
+          "system": "DL"
+        },
+        {
+          "id": "6792",
+          "system": "PHN"
+        }
+      ],
+      "short_code": "BKS",
+      "name": "Блок Комплексного сервиса",
+      "head_guid": "29dff79a-ee74-49eb-b9e4-c4b5e5acf6e5",
+      "assistant": [
+        {
+          "guid": "6fccd9d0-8430-4e6c-bdcd-0c45d2e8f457",
+          "type": "MAIN"
+        }
+      ]
+    },
+    {
+      "is_active": true,
+      "league_guid": "a931c7bb-8f9b-4cd0-9ee5-910edb57bcef",
+      "external": [
+        {
+          "id": "6",
+          "system": "DL"
+        },
+        {
+          "id": "6816",
+          "system": "PHN"
+        },
+        {
+          "id": "ff878713-0262-11e7-a14c-0cc47a688011",
+          "system": "1C"
+        }
+      ],
+      "short_code": "EAST",
+      "name": "Блок Восток",
+      "head_guid": "c01786af-211a-4f43-8aff-b452d7bb37d1",
+      "assistant": [
+        {
+          "guid": "fe7b58c8-9bcf-412c-9e7e-b295957acfaa",
+          "type": "MAIN"
+        },
+        {
+          "guid": "fe7b58c8-9bcf-412c-9e7e-b295957acfaa",
+          "type": "BASE"
+        }
+      ]
+    },
+    {
+      "is_active": true,
+      "league_guid": "af3497a4-5ae2-412a-95d8-5be58f412e77",
+      "external": [
+        {
+          "id": "30d365fc-13ac-11e7-8852-005056991e54",
+          "system": "1C"
+        },
+        {
+          "id": "11",
+          "system": "DL"
+        },
+        {
+          "id": "6836",
+          "system": "PHN"
+        }
+      ],
+      "short_code": "IPC",
+      "name": "Внутренние проекты компании",
+      "head_guid": null,
+      "assistant": [
+        {
+          "guid": "43d61209-0696-4a26-96eb-72bed9ce548f",
+          "type": "BASE"
+        }
+      ]
+    },
+    {
+      "is_active": true,
+      "league_guid": "c1c869ec-7e1d-41a7-9316-e6e10f023a6e",
+      "external": [
+        {
+          "id": "fb9d7873-1396-11e7-8852-005056991e54",
+          "system": "1C"
+        },
+        {
+          "id": "6833",
+          "system": "PHN"
+        },
+        {
+          "id": "10",
+          "system": "DL"
+        }
+      ],
+      "short_code": "INT",
+      "name": "Общие (Блок)",
+      "head_guid": null,
+      "assistant": []
+    }
+  ],
+  "meta": {
+    "per_page": 14,
+    "limit": 100,
+    "remaining_pages": 0
+  }
+}

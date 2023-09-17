@@ -1,0 +1,1055 @@
+[
+  {
+    "league_guid": "0f118513-ee63-474a-b677-a4eabd9b377e",
+    "external": [
+      {
+        "id": "4553",
+        "system": "DL"
+      },
+      {
+        "id": "1514156",
+        "system": "PHN"
+      },
+      {
+        "id": "1923a356-eb39-11e9-810f-0cc47a93d2f4",
+        "system": "1C"
+      }
+    ],
+    "name": "Севастополь, ул. Руднева, дом 41",
+    "address": null,
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "320b1ba2-ec30-4560-8290-250972114f2c",
+      "name": "Севастополь",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "4512",
+          "system": "DL"
+        },
+        {
+          "id": "1514155",
+          "system": "PHN"
+        },
+        {
+          "id": "0c730cac-eb39-11e9-810f-0cc47a93d2f4",
+          "system": "1C"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "2003157c-401c-46b5-a5b5-df6b5d67e1cc",
+    "external": [
+      {
+        "id": "1de66d68-4517-11e7-80c2-0cc47a93d2f5",
+        "system": "1C"
+      },
+      {
+        "id": "1302327",
+        "system": "PHN"
+      },
+      {
+        "id": "4534",
+        "system": "DL"
+      }
+    ],
+    "name": "Нижний Новгород, ул. Керченская, дом 13",
+    "address": " улица Керченская, дом 13",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "1c2fe9dc-bb2e-437a-88a3-88d9734e1daa",
+      "name": "Нижний Новгород",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "1302325",
+          "system": "PHN"
+        },
+        {
+          "id": "4498",
+          "system": "DL"
+        },
+        {
+          "id": "e1807095-4516-11e7-80c2-0cc47a93d2f5",
+          "system": "1C"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "23c7cf82-5ccd-4d07-8cba-69bf23ca9e99",
+    "external": [
+      {
+        "id": "4537",
+        "system": "DL"
+      },
+      {
+        "id": "1302455",
+        "system": "PHN"
+      },
+      {
+        "id": "471c7609-46ab-11e7-80c2-0cc47a93d2f5",
+        "system": "1C"
+      }
+    ],
+    "name": "Санкт-Петербург, 18-я линия Васильевского острова, 29",
+    "address": "18-я линия Васильевского острова, 29",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "147a4166-36f5-4d2f-881f-9b8a3742c880",
+      "name": "Санкт-Петербург",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "4493",
+          "system": "DL"
+        },
+        {
+          "id": "1297264",
+          "system": "PHN"
+        },
+        {
+          "id": "922f9b46-2038-11e7-8852-005056991e54",
+          "system": "1C"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "2eada80b-4d6d-4d82-a87b-dedd0e83a3cb",
+    "external": [
+      {
+        "id": "922f9b47-2038-11e7-8852-005056991e54",
+        "system": "1C"
+      },
+      {
+        "id": "1297265",
+        "system": "PHN"
+      },
+      {
+        "id": "4528",
+        "system": "DL"
+      }
+    ],
+    "name": "Санкт-Петербург, ул. Выборгская набережная, дом 47",
+    "address": "улица Выборгская набережная, дом 47",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "147a4166-36f5-4d2f-881f-9b8a3742c880",
+      "name": "Санкт-Петербург",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "922f9b46-2038-11e7-8852-005056991e54",
+          "system": "1C"
+        },
+        {
+          "id": "1297264",
+          "system": "PHN"
+        },
+        {
+          "id": "4493",
+          "system": "DL"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "319975a8-cd15-466b-bb4b-9e6f32e7d399",
+    "external": [
+      {
+        "id": "4549",
+        "system": "DL"
+      },
+      {
+        "id": "106fd502-fb63-11e7-80d9-0cc47a93d2f5",
+        "system": "1C"
+      },
+      {
+        "id": "1350537",
+        "system": "PHN"
+      }
+    ],
+    "name": "Астрахань, ул. Орехово-Зуевская, дом 2",
+    "address": null,
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "5102079e-9dd9-4e69-99a7-dae39d63c617",
+      "name": "Астрахань",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "4510",
+          "system": "DL"
+        },
+        {
+          "id": "1350536",
+          "system": "PHN"
+        },
+        {
+          "id": "0a4db88d-fb63-11e7-80d9-0cc47a93d2f5",
+          "system": "1C"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "380fbcf3-dae5-46d6-821c-56bf0c454a8d",
+    "external": [
+      {
+        "id": "0e74234f-1f90-11e7-8852-005056991e54",
+        "system": "1C"
+      },
+      {
+        "id": "4527",
+        "system": "DL"
+      },
+      {
+        "id": "1297263",
+        "system": "PHN"
+      }
+    ],
+    "name": "Таганрог, ул. Греческая, дом 104А",
+    "address": "улица Греческая, дом 104А",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "478e9428-d0b8-4481-9723-875b487b84d7",
+      "name": "Таганрог",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "4492",
+          "system": "DL"
+        },
+        {
+          "id": "0e74234e-1f90-11e7-8852-005056991e54",
+          "system": "1C"
+        },
+        {
+          "id": "1297262",
+          "system": "PHN"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "39fe78ed-50a0-4e31-babf-ddb31012157d",
+    "external": [
+      {
+        "id": "4540",
+        "system": "DL"
+      },
+      {
+        "id": "1332029",
+        "system": "PHN"
+      },
+      {
+        "id": "83800bb0-985d-11e7-80c9-0cc47a93d2f5",
+        "system": "1C"
+      }
+    ],
+    "name": "Белгород, пр-т Богдана Хмельницкого, дом 111",
+    "address": "пр-т Богдана Хмельницкого, д.111",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "86bc7001-49e0-4fa7-a888-3037de38b446",
+      "name": "Белгород",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "4506",
+          "system": "DL"
+        },
+        {
+          "id": "1304212",
+          "system": "PHN"
+        },
+        {
+          "id": "f0a6d44e-5d75-11e7-80c2-0cc47a93d2f5",
+          "system": "1C"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "419343b1-2c2b-47bc-98dd-ca2f5f152804",
+    "external": [
+      {
+        "id": "c0aeef85-26b6-11e7-b6d3-005056991e54",
+        "system": "1C"
+      },
+      {
+        "id": "4529",
+        "system": "DL"
+      },
+      {
+        "id": "1299141",
+        "system": "PHN"
+      }
+    ],
+    "name": "Воронеж, ул. Красноармейская, дом 52Д",
+    "address": "улица Красноармейская, дом 52Д",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "5597e657-69c8-4c18-a42c-53b8a6072275",
+      "name": "Воронеж",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "c0aeef84-26b6-11e7-b6d3-005056991e54",
+          "system": "1C"
+        },
+        {
+          "id": "4494",
+          "system": "DL"
+        },
+        {
+          "id": "1299140",
+          "system": "PHN"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "4266e393-469e-49ae-9197-a7ec4ac89898",
+    "external": [
+      {
+        "id": "b10ad480-7071-11e8-80e6-0cc47a93d2f5",
+        "system": "1C"
+      },
+      {
+        "id": "4551",
+        "system": "DL"
+      },
+      {
+        "id": "1385109",
+        "system": "PHN"
+      }
+    ],
+    "name": "Курск, ул. Карла Маркса, дом 61б",
+    "address": "улица Карла Маркса, дом 61б",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "0d5a919b-dce4-4ea1-a021-d4cd000f7a6f",
+      "name": "Курск",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "4499",
+          "system": "DL"
+        },
+        {
+          "id": "1302328",
+          "system": "PHN"
+        },
+        {
+          "id": "61b9441a-4517-11e7-80c2-0cc47a93d2f5",
+          "system": "1C"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "44d13a5b-e5d1-4ba0-ae44-de77ffb400eb",
+    "external": [
+      {
+        "id": "4550",
+        "system": "DL"
+      },
+      {
+        "id": "1358253",
+        "system": "PHN"
+      },
+      {
+        "id": "a805a6fe-1e20-11e8-80db-0cc47a93d2f5",
+        "system": "1C"
+      }
+    ],
+    "name": "Москва, ул. Б. Новодмитровская, д. 23, стр. 6",
+    "address": null,
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "7ee7f996-4de8-475d-b14d-aaf3a3fdbe17",
+      "name": "Москва",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "1296578",
+          "system": "PHN"
+        },
+        {
+          "id": "4490",
+          "system": "DL"
+        },
+        {
+          "id": "9bbf0144-e85e-11e6-968c-0cc47a688011",
+          "system": "1C"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "550f8338-65c4-4a6a-a8a6-31ebec58d3b7",
+    "external": [
+      {
+        "id": "61b9441b-4517-11e7-80c2-0cc47a93d2f5",
+        "system": "1C"
+      },
+      {
+        "id": "1302329",
+        "system": "PHN"
+      },
+      {
+        "id": "4535",
+        "system": "DL"
+      }
+    ],
+    "name": "Курск, ул. Ленина, дом 77Б",
+    "address": "улица Ленина, дом 77Б",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "0d5a919b-dce4-4ea1-a021-d4cd000f7a6f",
+      "name": "Курск",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "1302328",
+          "system": "PHN"
+        },
+        {
+          "id": "4499",
+          "system": "DL"
+        },
+        {
+          "id": "61b9441a-4517-11e7-80c2-0cc47a93d2f5",
+          "system": "1C"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "64ed9265-aefb-4c07-9276-1acf8cd73a95",
+    "external": [
+      {
+        "id": "acae555b-1987-11ed-9f06-0050568856fd",
+        "system": "1C"
+      },
+      {
+        "id": "6860",
+        "system": "DL"
+      },
+      {
+        "id": "1635234",
+        "system": "PHN"
+      }
+    ],
+    "name": "Чита_",
+    "address": null,
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "1ed26eb2-bb47-4e80-b068-f20624b092af",
+      "name": "Чита",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "4508",
+          "system": "DL"
+        },
+        {
+          "id": "1304225",
+          "system": "PHN"
+        },
+        {
+          "id": "f2f1a0bf-5d76-11e7-80c2-0cc47a93d2f5",
+          "system": "1C"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "6fabaf5f-abdb-4852-9a3a-fa78acbbd9d6",
+    "external": [
+      {
+        "id": "1332052",
+        "system": "PHN"
+      },
+      {
+        "id": "5ae01af5-986b-11e7-80c9-0cc47a93d2f5",
+        "system": "1C"
+      },
+      {
+        "id": "4545",
+        "system": "DL"
+      }
+    ],
+    "name": "Санкт-Петербург, ул. Воронежская, дом 5",
+    "address": "улица Воронежская, дом 5",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "147a4166-36f5-4d2f-881f-9b8a3742c880",
+      "name": "Санкт-Петербург",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "1297264",
+          "system": "PHN"
+        },
+        {
+          "id": "4493",
+          "system": "DL"
+        },
+        {
+          "id": "922f9b46-2038-11e7-8852-005056991e54",
+          "system": "1C"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "a066e321-ff33-4765-a613-cc4fc2d743c3",
+    "external": [
+      {
+        "id": "1636500",
+        "system": "PHN"
+      },
+      {
+        "id": "6879",
+        "system": "DL"
+      },
+      {
+        "id": "be17eccc-2440-11ed-9f06-0050568856fd",
+        "system": "1C"
+      }
+    ],
+    "name": "Нижний Новгород, ул. Нестерова, д. 9",
+    "address": "улица Нестерова, д. 9",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "1c2fe9dc-bb2e-437a-88a3-88d9734e1daa",
+      "name": "Нижний Новгород",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "e1807095-4516-11e7-80c2-0cc47a93d2f5",
+          "system": "1C"
+        },
+        {
+          "id": "4498",
+          "system": "DL"
+        },
+        {
+          "id": "1302325",
+          "system": "PHN"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "a0763db7-8312-42b4-9b4f-963304a9bc06",
+    "external": [
+      {
+        "id": "6d63b400-986a-11e7-80c9-0cc47a93d2f5",
+        "system": "1C"
+      },
+      {
+        "id": "1332049",
+        "system": "PHN"
+      },
+      {
+        "id": "4543",
+        "system": "DL"
+      }
+    ],
+    "name": "Красноярск, ул. Авиаторов, дом 19, корп.2",
+    "address": " улица Авиаторов, дом 19, корп.2",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "f3555f88-e5c0-42e4-b45b-636629484254",
+      "name": "Красноярск",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "1304204",
+          "system": "PHN"
+        },
+        {
+          "id": "327f8d56-5d75-11e7-80c2-0cc47a93d2f5",
+          "system": "1C"
+        },
+        {
+          "id": "4504",
+          "system": "DL"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "bf962880-efee-430a-a7b6-ffc208a9a97e",
+    "external": [
+      {
+        "id": "1302331",
+        "system": "PHN"
+      },
+      {
+        "id": "acfbe80f-4517-11e7-80c2-0cc47a93d2f5",
+        "system": "1C"
+      },
+      {
+        "id": "4536",
+        "system": "DL"
+      }
+    ],
+    "name": "Киров, ул. Ленина-Горбачева, дом 90/22",
+    "address": "ул. Ленина-Горбачева, д.90/22",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "cafc1b98-8abd-410b-8617-9d0da58c4b67",
+      "name": "Киров",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "1302330",
+          "system": "PHN"
+        },
+        {
+          "id": "4500",
+          "system": "DL"
+        },
+        {
+          "id": "acfbe80e-4517-11e7-80c2-0cc47a93d2f5",
+          "system": "1C"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "d7d0a7c2-5c3e-474b-87f3-2fa83e873d59",
+    "external": [
+      {
+        "id": "4542",
+        "system": "DL"
+      },
+      {
+        "id": "68df3e9e-9869-11e7-80c9-0cc47a93d2f5",
+        "system": "1C"
+      },
+      {
+        "id": "1332042",
+        "system": "PHN"
+      }
+    ],
+    "name": "Казахстан, г. Алматы, ул. Мынбаева 151",
+    "address": "г. Алматы, ул. Мынбаева 151",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "845f45fe-41fb-4844-b363-69c341d3ab53",
+      "name": "Казахстан",
+      "country_code": "KAZ",
+      "external": [
+        {
+          "id": "4501",
+          "system": "DL"
+        },
+        {
+          "id": "feb7e498-5d73-11e7-80c2-0cc47a93d2f5",
+          "system": "1C"
+        },
+        {
+          "id": "1304201",
+          "system": "PHN"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "d99992b5-a4a8-4844-9749-efde534a2616",
+    "external": [
+      {
+        "id": "e8e03398-4516-11e7-80c2-0cc47a93d2f5",
+        "system": "1C"
+      },
+      {
+        "id": "1302326",
+        "system": "PHN"
+      },
+      {
+        "id": "4533",
+        "system": "DL"
+      }
+    ],
+    "name": "Нижний Новгород, пер. Холодный, дом 10-А",
+    "address": "пер. Холодный, дом 10-А",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "1c2fe9dc-bb2e-437a-88a3-88d9734e1daa",
+      "name": "Нижний Новгород",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "4498",
+          "system": "DL"
+        },
+        {
+          "id": "1302325",
+          "system": "PHN"
+        },
+        {
+          "id": "e1807095-4516-11e7-80c2-0cc47a93d2f5",
+          "system": "1C"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "e03da8ab-6101-4073-a056-4596fba970c1",
+    "external": [
+      {
+        "id": "4530",
+        "system": "DL"
+      },
+      {
+        "id": "e0960f2b-26b6-11e7-b6d3-005056991e54",
+        "system": "1C"
+      },
+      {
+        "id": "1299144",
+        "system": "PHN"
+      }
+    ],
+    "name": "Краснодар, ул. Красная, дом 155, корп. 2-3",
+    "address": "улица Красная, дом 155",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "010af1dc-bf97-40c4-9b38-44251c9cfa39",
+      "name": "Краснодар",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "1299143",
+          "system": "PHN"
+        },
+        {
+          "id": "e0960f2a-26b6-11e7-b6d3-005056991e54",
+          "system": "1C"
+        },
+        {
+          "id": "4495",
+          "system": "DL"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "e2e3af77-8c7e-4cf5-90c1-701dabb032aa",
+    "external": [
+      {
+        "id": "4524",
+        "system": "DL"
+      },
+      {
+        "id": "9bbf0145-e85e-11e6-968c-0cc47a688011",
+        "system": "1C"
+      },
+      {
+        "id": "1296579",
+        "system": "PHN"
+      }
+    ],
+    "name": "Москва, ул. Большая Новодмитровская, дом 14",
+    "address": "улица Большая Новодмитровская, дом 14",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "7ee7f996-4de8-475d-b14d-aaf3a3fdbe17",
+      "name": "Москва",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "1296578",
+          "system": "PHN"
+        },
+        {
+          "id": "4490",
+          "system": "DL"
+        },
+        {
+          "id": "9bbf0144-e85e-11e6-968c-0cc47a688011",
+          "system": "1C"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "e58ce362-dbfc-4a3f-bb2e-77c02f50f214",
+    "external": [
+      {
+        "id": "1296823",
+        "system": "PHN"
+      },
+      {
+        "id": "fd5372a3-1395-11e7-8852-005056991e54",
+        "system": "1C"
+      },
+      {
+        "id": "4525",
+        "system": "DL"
+      }
+    ],
+    "name": "Москва 4 (Измайловский вал)",
+    "address": null,
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "7ee7f996-4de8-475d-b14d-aaf3a3fdbe17",
+      "name": "Москва",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "4490",
+          "system": "DL"
+        },
+        {
+          "id": "1296578",
+          "system": "PHN"
+        },
+        {
+          "id": "9bbf0144-e85e-11e6-968c-0cc47a688011",
+          "system": "1C"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "e73e99a9-6db9-43fb-9a69-ff2558842462",
+    "external": [
+      {
+        "id": "bb17c24e-6afb-11e7-80c2-0cc47a93d2f5",
+        "system": "1C"
+      },
+      {
+        "id": "1327195",
+        "system": "PHN"
+      },
+      {
+        "id": "4538",
+        "system": "DL"
+      }
+    ],
+    "name": "Екатеринбург, ул. Белинского, дом 83",
+    "address": "улица Белинского, дом 83",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "1ee4ee4a-6e3c-469d-8f61-74591246b622",
+      "name": "Екатеринбург",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "4496",
+          "system": "DL"
+        },
+        {
+          "id": "1300961",
+          "system": "PHN"
+        },
+        {
+          "id": "d8f841e8-30ad-11e7-b6d3-005056991e54",
+          "system": "1C"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "ef2c6957-90f1-480c-800e-e7c0fc05a8c8",
+    "external": [
+      {
+        "id": "879bc014-8574-11eb-8151-0cc47a93d2f4",
+        "system": "1C"
+      },
+      {
+        "id": "5336",
+        "system": "DL"
+      },
+      {
+        "id": "1574546",
+        "system": "PHN"
+      }
+    ],
+    "name": "Беларусь, г. Минск, пр. Независимости, д. 117А-3",
+    "address": "г. Минск, пр. Независимости, д. 117А-3",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "75a8cbed-dbfa-4cd9-bbd5-877a83f7e9f2",
+      "name": "Беларусь",
+      "country_code": "BLR",
+      "external": [
+        {
+          "id": "1574545",
+          "system": "PHN"
+        },
+        {
+          "id": "5335",
+          "system": "DL"
+        },
+        {
+          "id": "747ff1ed-8574-11eb-8151-0cc47a93d2f4",
+          "system": "1C"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "f55d20f7-d556-4b65-b5e1-cd404dbfd160",
+    "external": [
+      {
+        "id": "1301951",
+        "system": "PHN"
+      },
+      {
+        "id": "4531",
+        "system": "DL"
+      },
+      {
+        "id": "73de23c7-4056-11e7-80c2-0cc47a93d2f5",
+        "system": "1C"
+      }
+    ],
+    "name": "Новосибирск,  ул. Коммунистическая, дом 40",
+    "address": "улица Коммунистическая, дом 40",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "0c8adbe1-5a53-48af-becc-15767d34ca20",
+      "name": "Новосибирск",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "1296825",
+          "system": "PHN"
+        },
+        {
+          "id": "4491",
+          "system": "DL"
+        },
+        {
+          "id": "abe2b138-030b-11e7-b398-0cc47a688011",
+          "system": "1C"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "f56c9d1c-754b-42d8-8191-aef97c67d994",
+    "external": [
+      {
+        "id": "1509918",
+        "system": "PHN"
+      },
+      {
+        "id": "a949347f-d2fd-11e9-810a-0cc47a93d2f4",
+        "system": "1C"
+      },
+      {
+        "id": "4552",
+        "system": "DL"
+      }
+    ],
+    "name": "Волгоград, ул. Баррикадная, дом 1Б",
+    "address": " улица Баррикадная, дом 1Б",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "e1c65855-1f18-4435-bf71-9d138df33eb2",
+      "name": "Волгоград",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "1509917",
+          "system": "PHN"
+        },
+        {
+          "id": "4511",
+          "system": "DL"
+        },
+        {
+          "id": "9eff82ca-d2fd-11e9-810a-0cc47a93d2f4",
+          "system": "1C"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "f5fa9e82-1377-495f-a935-e49949072c34",
+    "external": [
+      {
+        "id": "ba99397d-1481-11e7-8852-005056991e54",
+        "system": "1C"
+      },
+      {
+        "id": "4526",
+        "system": "DL"
+      },
+      {
+        "id": "1296824",
+        "system": "PHN"
+      }
+    ],
+    "name": "Москва, ул. 2-я Хуторская, дом 38А, стр. 14",
+    "address": "улица 2-я Хуторская, дом 38А, стр. 14",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "7ee7f996-4de8-475d-b14d-aaf3a3fdbe17",
+      "name": "Москва",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "4490",
+          "system": "DL"
+        },
+        {
+          "id": "9bbf0144-e85e-11e6-968c-0cc47a688011",
+          "system": "1C"
+        },
+        {
+          "id": "1296578",
+          "system": "PHN"
+        }
+      ]
+    }
+  },
+  {
+    "league_guid": "fa5e042a-10d9-4e19-801b-6ee1965a74b5",
+    "external": [
+      {
+        "id": "4532",
+        "system": "DL"
+      },
+      {
+        "id": "1302205",
+        "system": "PHN"
+      },
+      {
+        "id": "770ddd11-4462-11e7-80c2-0cc47a93d2f5",
+        "system": "1C"
+      }
+    ],
+    "name": "Ярославль, ул. Тургенева, дом 17",
+    "address": "улица Тургенева, дом 17",
+    "status": "ACTIVE",
+    "region": {
+      "league_guid": "1b339042-8fcc-4739-8a8b-11c73fd3cd09",
+      "name": "Ярославль",
+      "country_code": "RUS",
+      "external": [
+        {
+          "id": "4497",
+          "system": "DL"
+        },
+        {
+          "id": "1302204",
+          "system": "PHN"
+        },
+        {
+          "id": "5be42ed5-4462-11e7-80c2-0cc47a93d2f5",
+          "system": "1C"
+        }
+      ]
+    }
+  }
+]

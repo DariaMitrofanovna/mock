@@ -1,0 +1,443 @@
+[
+  {
+    "league_guid": "005c5451-605a-4045-87d8-9d38f7757efe",
+    "external": [
+      {
+        "id": "1296576",
+        "system": "PHN"
+      },
+      {
+        "id": "17",
+        "system": "DL"
+      },
+      {
+        "id": "967e5291-c782-11e6-9844-0cc47a688011",
+        "system": "1C"
+      }
+    ],
+    "name": "ООО «Р.Т Решения»",
+    "legal_address": null,
+    "status": "ACTIVE",
+    "country_code": "RUS"
+  },
+  {
+    "league_guid": "2042b324-72c1-4061-87f9-0e7071b79df4",
+    "external": [
+      {
+        "id": "1300889",
+        "system": "PHN"
+      },
+      {
+        "id": "12",
+        "system": "DL"
+      },
+      {
+        "id": "71310006-2b5c-11e7-8b77-00505699bffb",
+        "system": "1C"
+      }
+    ],
+    "name": "ООО «Инлексис»",
+    "legal_address": null,
+    "status": "ACTIVE",
+    "country_code": "RUS"
+  },
+  {
+    "league_guid": "2ce2c91a-27e5-448d-9685-b0b349627be1",
+    "external": [
+      {
+        "id": "13",
+        "system": "DL"
+      },
+      {
+        "id": "1300891",
+        "system": "PHN"
+      },
+      {
+        "id": "6932038d-29cd-11e7-9b6a-00505699c789",
+        "system": "1C"
+      }
+    ],
+    "name": "ООО «Мобильные профессионалы»",
+    "legal_address": "",
+    "status": "ACTIVE",
+    "country_code": "RUS"
+  },
+  {
+    "league_guid": "35050742-21a1-45e4-8172-a61052a70f08",
+    "external": [
+      {
+        "id": "8d1dd633-f9d6-11e7-9b0e-005056991e54",
+        "system": "1C"
+      },
+      {
+        "id": "1482671",
+        "system": "PHN"
+      },
+      {
+        "id": "22",
+        "system": "DL"
+      }
+    ],
+    "name": "Лига Цифровой Экономики",
+    "legal_address": null,
+    "status": "ACTIVE",
+    "country_code": "RUS"
+  },
+  {
+    "league_guid": "5e666128-9b5f-41b2-889f-c09065e823c8",
+    "external": [
+      {
+        "id": "1590840",
+        "system": "PHN"
+      },
+      {
+        "id": "32d28b88-e567-11eb-acc0-005056990c7f",
+        "system": "1C"
+      },
+      {
+        "id": "28",
+        "system": "DL"
+      }
+    ],
+    "name": "ООО «ДАТСИС»",
+    "legal_address": null,
+    "status": "ACTIVE",
+    "country_code": "RUS"
+  },
+  {
+    "league_guid": "6232567a-bd06-482d-9a9e-cec60094d8ec",
+    "external": [
+      {
+        "id": "14",
+        "system": "DL"
+      },
+      {
+        "id": "006cd17a-318c-11e7-986e-00505699f76d",
+        "system": "1C"
+      },
+      {
+        "id": "1301153",
+        "system": "PHN"
+      }
+    ],
+    "name": "ООО «М-Клауд»",
+    "legal_address": null,
+    "status": "ACTIVE",
+    "country_code": "RUS"
+  },
+  {
+    "league_guid": "63f05d61-b98f-4bcd-bd5d-aea6a1329954",
+    "external": [
+      {
+        "id": "16df4639-e68b-11e7-ae41-0025907546f1",
+        "system": "1C"
+      },
+      {
+        "id": "8",
+        "system": "DL"
+      },
+      {
+        "id": "1355404",
+        "system": "PHN"
+      }
+    ],
+    "name": "АО «Группа ЭйТи»",
+    "legal_address": null,
+    "status": "ACTIVE",
+    "country_code": "RUS"
+  },
+  {
+    "league_guid": "81b685f1-a7f5-43ea-b78c-efeeed7fb5a3",
+    "external": [
+      {
+        "id": "5e9db626-162c-11e7-a43e-00505699c789",
+        "system": "1C"
+      },
+      {
+        "id": "5",
+        "system": "DL"
+      },
+      {
+        "id": "1298009",
+        "system": "PHN"
+      }
+    ],
+    "name": "ООО «Философия.ИТ»",
+    "legal_address": null,
+    "status": "ACTIVE",
+    "country_code": "RUS"
+  },
+  {
+    "league_guid": "8aa7b504-c837-442b-a1c5-60c1a973d290",
+    "external": [
+      {
+        "id": "d1fa4136-099c-11e7-99ea-005056995d11",
+        "system": "1C"
+      },
+      {
+        "id": "7",
+        "system": "DL"
+      },
+      {
+        "id": "1296987",
+        "system": "PHN"
+      }
+    ],
+    "name": "ООО «Цифровые системы управления»",
+    "legal_address": null,
+    "status": "ACTIVE",
+    "country_code": "RUS"
+  },
+  {
+    "league_guid": "907643a5-8cbf-4aa7-a900-157032a0df1f",
+    "external": [
+      {
+        "id": "0a44c2fc-3a13-11eb-8b3b-00505699c789",
+        "system": "1C"
+      },
+      {
+        "id": "25",
+        "system": "DL"
+      },
+      {
+        "id": "1566326",
+        "system": "PHN"
+      }
+    ],
+    "name": "ООО «Инновационный Центр Философия.ИТ»",
+    "legal_address": null,
+    "status": "ACTIVE",
+    "country_code": "RUS"
+  },
+  {
+    "league_guid": "9a9e7963-e56c-472e-a7b9-221e76b05700",
+    "external": [
+      {
+        "id": "24",
+        "system": "DL"
+      },
+      {
+        "id": "4d0fd451-0d1c-11eb-b721-005056990c7f",
+        "system": "1C"
+      },
+      {
+        "id": "1559436",
+        "system": "PHN"
+      }
+    ],
+    "name": "ООО «АНТЕСТ»",
+    "legal_address": null,
+    "status": "ACTIVE",
+    "country_code": "RUS"
+  },
+  {
+    "league_guid": "9faa4e12-002a-418c-b89e-43cbffe3c898",
+    "external": [
+      {
+        "id": "1355405",
+        "system": "PHN"
+      },
+      {
+        "id": "9e5df2f1-e688-11e7-ae41-0025907546f1",
+        "system": "1C"
+      },
+      {
+        "id": "9",
+        "system": "DL"
+      }
+    ],
+    "name": "ООО «ЭйТи Сибирь»",
+    "legal_address": null,
+    "status": "ACTIVE",
+    "country_code": "RUS"
+  },
+  {
+    "league_guid": "afb15576-769b-42db-a0e4-f40aedd1b376",
+    "external": [
+      {
+        "id": "5d8a5e52-dfef-11eb-8437-005056992753",
+        "system": "1C"
+      },
+      {
+        "id": "27",
+        "system": "DL"
+      },
+      {
+        "id": "1574075",
+        "system": "PHN"
+      }
+    ],
+    "name": "ООО «Цифровые экосистемы»",
+    "legal_address": null,
+    "status": "ACTIVE",
+    "country_code": "BLR"
+  },
+  {
+    "league_guid": "b81b91a9-31ea-4396-8be6-94cf42b5d16c",
+    "external": [
+      {
+        "id": "1355407",
+        "system": "PHN"
+      },
+      {
+        "id": "73e02c9d-464d-11e0-8986-96ef18e96e6d",
+        "system": "1C"
+      },
+      {
+        "id": "11",
+        "system": "DL"
+      }
+    ],
+    "name": "ТОО Эй Ти Си Каз",
+    "legal_address": null,
+    "status": "ACTIVE",
+    "country_code": "KAZ"
+  },
+  {
+    "league_guid": "beae5921-7394-4700-acd9-c14a18a649d3",
+    "external": [
+      {
+        "id": "d79cc195-1d22-11e8-a882-005056995d11",
+        "system": "1C"
+      },
+      {
+        "id": "2",
+        "system": "DL"
+      },
+      {
+        "id": "1359932",
+        "system": "PHN"
+      }
+    ],
+    "name": "ООО «Орбита успеха»",
+    "legal_address": null,
+    "status": "ACTIVE",
+    "country_code": "RUS"
+  },
+  {
+    "league_guid": "c255bbdb-8907-496e-a4df-b7254f74fac7",
+    "external": [
+      {
+        "id": "855d5dc8-72b3-11eb-b43a-005056991e54",
+        "system": "1C"
+      },
+      {
+        "id": "26",
+        "system": "DL"
+      },
+      {
+        "id": "1573826",
+        "system": "PHN"
+      }
+    ],
+    "name": "Лига Цифровой Экономики",
+    "legal_address": null,
+    "status": "ACTIVE",
+    "country_code": "RUS"
+  },
+  {
+    "league_guid": "c78fe85c-c4b9-4065-99c4-11cc0952296c",
+    "external": [
+      {
+        "id": "3",
+        "system": "DL"
+      },
+      {
+        "id": "1327186",
+        "system": "PHN"
+      },
+      {
+        "id": "faca0623-de3a-11e6-ba8a-005056ae21fa",
+        "system": "1C"
+      }
+    ],
+    "name": "ООО «ТЕХКОНСУР»",
+    "legal_address": null,
+    "status": "ACTIVE",
+    "country_code": "RUS"
+  },
+  {
+    "league_guid": "e6a37296-46d8-4fe4-aaa8-51ce5a8826dd",
+    "external": [
+      {
+        "id": "63313aed-080f-11e7-85e9-00505699bffb",
+        "system": "1C"
+      },
+      {
+        "id": "1296986",
+        "system": "PHN"
+      },
+      {
+        "id": "6",
+        "system": "DL"
+      }
+    ],
+    "name": "ООО «ТЕКТУС.ИТ»",
+    "legal_address": null,
+    "status": "ACTIVE",
+    "country_code": "RUS"
+  },
+  {
+    "league_guid": "e6c92cfb-42b9-456c-8250-0a06154a8996",
+    "external": [
+      {
+        "id": "20",
+        "system": "DL"
+      },
+      {
+        "id": "1354982",
+        "system": "PHN"
+      },
+      {
+        "id": "909402c0-e685-11e7-ae41-0025907546f1",
+        "system": "1C"
+      }
+    ],
+    "name": "ООО «ЭйТи Сервис»",
+    "legal_address": null,
+    "status": "ACTIVE",
+    "country_code": "RUS"
+  },
+  {
+    "league_guid": "efc4bf75-beaf-47e4-b89b-95e93d539de6",
+    "external": [
+      {
+        "id": "3e08b790-3656-11e7-9813-00505699c789",
+        "system": "1C"
+      },
+      {
+        "id": "15",
+        "system": "DL"
+      },
+      {
+        "id": "1301423",
+        "system": "PHN"
+      }
+    ],
+    "name": "ООО «Си Икс Лаб»",
+    "legal_address": null,
+    "status": "ACTIVE",
+    "country_code": "RUS"
+  },
+  {
+    "league_guid": "f21744b1-5522-4035-8fbd-b5c5d476e934",
+    "external": [
+      {
+        "id": "f2f8dd79-e657-11e7-ae41-0025907546f1",
+        "system": "1C"
+      },
+      {
+        "id": "1304122",
+        "system": "PHN"
+      },
+      {
+        "id": "1",
+        "system": "DL"
+      }
+    ],
+    "name": "ООО «ЭйТи Консалтинг»",
+    "legal_address": null,
+    "status": "ACTIVE",
+    "country_code": "RUS"
+  }
+]
