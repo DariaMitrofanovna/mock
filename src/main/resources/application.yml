@@ -1,0 +1,2 @@
+kafka:
+ url: ${KAFKA_URL:kafka:29092}
